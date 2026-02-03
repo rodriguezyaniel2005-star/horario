@@ -7,9 +7,11 @@
   "theme_color": "#5c67f2",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2693/2693507.png",
+     "src": "icono-horario.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
+
 }
